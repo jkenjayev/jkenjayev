@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jkenjayev
-- 👀 I’m interested in Javascript. Nodejs
-- 🌱 I’m currently learning Nodejs deeper
-- 💞️ I’m looking to collaborate on nodejs backend
+- 👀 I’m interested in Automation testing
+- 🌱 I’m currently learning Cypress deeper
 - 📫 How to reach me javohirwebdev@gmail.com
 
